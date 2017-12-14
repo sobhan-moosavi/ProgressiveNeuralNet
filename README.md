@@ -31,6 +31,7 @@ Here, the first parameter is the GPU id, the second parameter is a list of sourc
 This implementation is an adapatation of <a href="https://github.com/eparisotto/ActorMimic">Actor-Mimic</a>, which provides code for the <a href="https://arxiv.org/abs/1511.06342">Actor-Mimic deep multitask and transfer reinforcement learning</a>. 
 
 ## References 
-1. Human-level control through deep reinforcement learning, Nature 2015
-2. Progressive Neural Networks, arXiv preprint 2016 
-3. Actor-Mimic deep multitask and transfer reinforcement learning, ICLR 2016
+1. [Human-level control through deep reinforcement learning, Nature 2015](https://www.nature.com/articles/nature14236.pdf)
+2. [Progressive Neural Networks, arXiv preprint 2016](https://arxiv.org/pdf/1606.04671.pdf)
+3. [Actor-Mimic deep multitask and transfer reinforcement learning, ICLR 2016](https://arxiv.org/pdf/1511.06342.pdf)
+4. [A Nested Architecture to Improve Transfer Learning in Deep Reinforcement Learning, Technical Report 2017](http://web.cse.ohio-state.edu/~moosavinejaddaryakenari.1/wp-content/uploads/2015/05/FinalPaper.pdf)
