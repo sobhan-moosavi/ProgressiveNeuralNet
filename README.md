@@ -1,7 +1,7 @@
 # Progressive Neural Net based on DQN
 Code for a simplified version of paper <a href="https://arxiv.org/abs/1606.04671">Progressive Neural Networks</a>, on top of the <a href="https://www.nature.com/articles/nature14236">DQN</a> architecture. Trains a DQN for a new game based on several frozen DQN models using the progressive neural network training architecture. This is a simplified version of Progressive Netowork where transfer is based on the following formula and just using the fully connected layers. 
 
-<img src="files/formula_1.png" style="width: 20%; height: 20%"/>
+<img src="files/formula_1.png" height="90" width="350">
 
 We have used this implementation for our nested architecture which combines Progressive Neural Network and Actor-Mimic to provide better transfer learning for training an Atari agent. More details may be found here: [Tech Report]
 
