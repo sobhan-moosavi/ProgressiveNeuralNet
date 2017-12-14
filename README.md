@@ -3,7 +3,7 @@ Code for a simplified version of paper <a href="https://arxiv.org/abs/1606.04671
 
 <img src="files/formula_1.png" height="90" width="350">
 
-We have used this implementation for our nested architecture which combines Progressive Neural Network and Actor-Mimic to provide better transfer learning for training an Atari agent. More details may be found here: [Tech Report]
+We have used this implementation for our proposal on a nested architecture which combines Progressive Neural Network and Actor-Mimic to provide better transfer learning for training an Atari agent. More details may be found in our <a href="http://web.cse.ohio-state.edu/~moosavinejaddaryakenari.1/wp-content/uploads/2015/05/FinalPaper.pdf">technical report</a>.
 
 ## Installation
 
